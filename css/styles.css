@@ -1,0 +1,29 @@
+body{
+    font-family: "Dosis", sans-serif;
+    background-color: lightgray;
+    color: black;
+}
+
+h1{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 32px;
+}
+h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+#recipeList{
+color: antiquewhite;
+background-color: green;
+text-align: center;
+}
